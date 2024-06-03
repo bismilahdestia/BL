@@ -1,12 +1,12 @@
 # api id, hash
-API_ID = 11111111
-API_HASH = 'Your api hash'
+API_ID = 28354546
+API_HASH = '045ac50edd7a9922ad59c5a6aeece653'
 
 # задержка между подключениями к аккаунтам
 ACC_DELAY = [5, 15]
 
 # тип прокси
-PROXY_TYPE = "socks5" # http/socks5
+PROXY_TYPE = "false" # http/socks5
 
 # папка с сессиями (не менять)
 WORKDIR = "sessions/"
