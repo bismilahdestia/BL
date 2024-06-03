@@ -6,13 +6,13 @@ API_HASH = '045ac50edd7a9922ad59c5a6aeece653'
 ACC_DELAY = [5, 15]
 
 # тип прокси
-PROXY_TYPE = "false" # http/socks5
+PROXY_TYPE = "http" # http/socks5
 
 # папка с сессиями (не менять)
 WORKDIR = "sessions/"
 
 # использование прокси
-USE_PROXY = True # True/False
+USE_PROXY = False # True/False
 
 # скок поинтов с игры
 POINTS = [100, 140] #[min, max]
